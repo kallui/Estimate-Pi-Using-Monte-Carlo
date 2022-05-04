@@ -1,4 +1,4 @@
-# Estimate_Pi_Using_Monte_Carlo
+# Estimate-Pi-Using-Monte-Carlo
 
 Monte Carlo methods are a broad class of computational algorithms that rely on repeated random sampling to obtain numerical results. One of the uses of the Monte Carlo method is to estimate Pi. 
 
